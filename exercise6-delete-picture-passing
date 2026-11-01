@@ -1,0 +1,9 @@
+============================= test session starts ==============================
+collecting ... collected 4 items
+
+tests/test_api.py::test_post_picture PASSED
+tests/test_api.py::test_post_picture_duplicate PASSED
+tests/test_api.py::test_update_picture_by_id PASSED
+tests/test_api.py::test_delete_picture_by_id PASSED
+
+============================== 4 passed in 0.02s ===============================
