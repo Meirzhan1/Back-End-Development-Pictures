@@ -1,0 +1,7 @@
+============================= test session starts ==============================
+collecting ... collected 2 items
+
+tests/test_api.py::test_post_picture PASSED
+tests/test_api.py::test_post_picture_duplicate PASSED
+
+============================== 2 passed in 0.02s ===============================
